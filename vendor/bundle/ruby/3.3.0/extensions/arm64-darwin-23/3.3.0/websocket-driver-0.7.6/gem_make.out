@@ -1,0 +1,18 @@
+current directory: /Users/kashiuchi/work/UGOKASULife/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+/Users/kashiuchi/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/kashiuchi/work/UGOKASULife/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20241212-46996-1698tm sitelibdir\=./.gem.20241212-46996-1698tm clean
+
+current directory: /Users/kashiuchi/work/UGOKASULife/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20241212-46996-1698tm sitelibdir\=./.gem.20241212-46996-1698tm
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/kashiuchi/work/UGOKASULife/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20241212-46996-1698tm sitelibdir\=./.gem.20241212-46996-1698tm install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20241212-46996-1698tm
+
+current directory: /Users/kashiuchi/work/UGOKASULife/vendor/bundle/ruby/3.3.0/gems/websocket-driver-0.7.6/ext/websocket-driver
+make DESTDIR\= sitearchdir\=./.gem.20241212-46996-1698tm sitelibdir\=./.gem.20241212-46996-1698tm clean

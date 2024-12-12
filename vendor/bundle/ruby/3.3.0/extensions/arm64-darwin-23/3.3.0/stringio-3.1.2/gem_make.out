@@ -1,0 +1,18 @@
+current directory: /Users/kashiuchi/work/UGOKASULife/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.2/ext/stringio
+/Users/kashiuchi/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/kashiuchi/work/UGOKASULife/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.2/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20241212-46996-iwfew8 sitelibdir\=./.gem.20241212-46996-iwfew8 clean
+
+current directory: /Users/kashiuchi/work/UGOKASULife/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.2/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20241212-46996-iwfew8 sitelibdir\=./.gem.20241212-46996-iwfew8
+compiling stringio.c
+linking shared-object stringio.bundle
+
+current directory: /Users/kashiuchi/work/UGOKASULife/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.2/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20241212-46996-iwfew8 sitelibdir\=./.gem.20241212-46996-iwfew8 install
+/usr/bin/install -c -m 0755 stringio.bundle ./.gem.20241212-46996-iwfew8
+
+current directory: /Users/kashiuchi/work/UGOKASULife/vendor/bundle/ruby/3.3.0/gems/stringio-3.1.2/ext/stringio
+make DESTDIR\= sitearchdir\=./.gem.20241212-46996-iwfew8 sitelibdir\=./.gem.20241212-46996-iwfew8 clean

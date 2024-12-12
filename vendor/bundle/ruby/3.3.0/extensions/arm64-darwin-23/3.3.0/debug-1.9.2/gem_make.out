@@ -1,0 +1,19 @@
+current directory: /Users/kashiuchi/work/UGOKASULife/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+/Users/kashiuchi/.rbenv/versions/3.3.0/bin/ruby extconf.rb
+creating Makefile
+
+current directory: /Users/kashiuchi/work/UGOKASULife/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241212-48737-j92ha7 sitelibdir\=./.gem.20241212-48737-j92ha7 clean
+
+current directory: /Users/kashiuchi/work/UGOKASULife/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241212-48737-j92ha7 sitelibdir\=./.gem.20241212-48737-j92ha7
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.bundle
+
+current directory: /Users/kashiuchi/work/UGOKASULife/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241212-48737-j92ha7 sitelibdir\=./.gem.20241212-48737-j92ha7 install
+/usr/bin/install -c -m 0755 debug.bundle ./.gem.20241212-48737-j92ha7/debug
+
+current directory: /Users/kashiuchi/work/UGOKASULife/vendor/bundle/ruby/3.3.0/gems/debug-1.9.2/ext/debug
+make DESTDIR\= sitearchdir\=./.gem.20241212-48737-j92ha7 sitelibdir\=./.gem.20241212-48737-j92ha7 clean
